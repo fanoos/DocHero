@@ -11,3 +11,14 @@ Encouraging diabetic children to do and follow their diabetes plan without need 
 [Presentation](https://github.com/fanoos/DocHero/blob/master/Presentation/DocHero-Mileston-1.pdf)
 
 [Top Competitors](https://github.com/fanoos/DocHero/blob/master/Presentation/Competitors-List.pdf)
+
+## GCW2018 - Milestone 3
+
+[Presentation](https://github.com/fanoos/DocHero/blob/master/Presentation/DocHero-Mileston-1.pdf)
+
+[Android App](https://github.com/fanoos/DocHero/blob/master/Presentation/DocHero-Mileston-1.pdf)
+
+[Help Video for children](https://youtu.be/iVtkGnvduVA)
+
+
+
